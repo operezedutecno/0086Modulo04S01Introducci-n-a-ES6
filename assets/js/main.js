@@ -1,8 +1,8 @@
 // var resultado = null
 
-// function sumar(n1, n2) {
-//     resultado = n1 + n2
-// }
+function sumar(n1, n2) {
+    resultado = n1 + n2
+}
 
 // function restar(n1,n2) {
 
